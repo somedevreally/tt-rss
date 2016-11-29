@@ -1,7 +1,7 @@
 {
   "name": "tt-rss",
   "description": "youtube-php-mirroring",
-  "repository": "https://github.com/ttestdock/KODExplorer",
+  "repository": "https://github.com/ttestdock/tt-rss",
   "logo": "https://avatars3.githubusercontent.com/u/195836?s=60",
   "keywords": ["golang", "fetchserver", "golang"]
 }
